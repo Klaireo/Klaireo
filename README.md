@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Klaireo
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me:  Twitter: KadirCa10
